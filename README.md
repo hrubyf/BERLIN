@@ -18,9 +18,11 @@
 #### 1. Einführung in QGIS | Bevölkerungsverteilung in den Berliner Bezirken (absolut)
 
 Video:
+
 Übungsdaten: 
 
 #### 2. Bevölkerungsverteilung in den Berliner Bezirken (absolut)
 
 Video:
+
 Übungsdaten: 
