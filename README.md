@@ -66,3 +66,9 @@
 [Video](https://drive.google.com/open?id=1Tz5OagA_s1h4WYZsLLrrRe3RfVx04fNZ)
 
 Übungsdaten: es können alle Daten aus den vorangegangenen Videos verwendet werden.
+
+### Datenquellen
+
+[Stadt Berlin](daten.berlin.de)
+
+[Germany: High Resolution Population Density Maps](https://data.humdata.org/dataset/germany-high-resolution-population-density-maps-demographic-estimates)
