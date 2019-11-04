@@ -6,7 +6,7 @@
 ### Vorbereitende Literatur
 
 - Hruby, F. (2016). 190 Jahre Choroplethenkarten - Ein Zwischenresümee. Kartographische Nachrichten, 66(2), 58-65. [PDF](https://www.researchgate.net/publication/321697927_190_years_of_Choropleth_mapping_-_some_interim_conclusions)
-- Jenks, G. F., & Caspall, F. C. (1971). Error on choroplethic maps: definition, measurement, reduction. Annals of the Association of American Geographers, 61(2), 217-244.
+- Jenks, G. F., & Caspall, F. C. (1971). Error on choroplethic maps: definition, measurement, reduction. Annals of the Association of American Geographers, 61(2), 217-244. [PDF](https://drive.google.com/open?id=0B_EIYX4dVbBxbmpab1FmNWhhdEk)
 - Kraak, M. J., & Ormeling, F. J. (2013). Cartography: visualization of spatial data. Routledge. (Kapitel 1 und 7).
 
 ### Software
