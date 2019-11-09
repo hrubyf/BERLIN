@@ -1,7 +1,8 @@
 # berlin
 
 # “Was ist eine gute thematische Karte”? 
-## Erstellung von Choroplethenkarten mit QGIS | Florian HRUBY | florian.hruby@univie.ac.at
+## Erstellung von Choroplethenkarten mit QGIS
+## Florian HRUBY | florian.hruby@univie.ac.at
 
 ### Vorbereitende Literatur
 
