@@ -27,7 +27,7 @@
 
 #### 2. Bevölkerungsverteilung in den Berliner Bezirken (relativ)
 
-[Video](https://qgis.org/de/site/)
+[Video](https://drive.google.com/open?id=10C7Iei3sgvbEPzGlSlb04_aN6eo1LRqm)
 
 Übungsdaten: es können die Daten von Video 1 verwendet werden.
 
