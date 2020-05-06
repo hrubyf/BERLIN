@@ -69,6 +69,12 @@
 
 Übungsdaten: es können alle Daten aus den vorangegangenen Videos verwendet werden.
 
+#### 9. Mehrschichtige Choroplethenkarte mit QGIS (am Beispiel der Bundeswahlen in Mexiko 2018)
+
+[Video](https://drive.google.com/open?id=1u0mMQ5xAp-wibddMDADf92VvmLUnFnH7)
+
+[Übungsdaten](https://drive.google.com/open?id=1fPxWhjbjadd4U_nnNQhBTTeWMEXS2cyW)
+
 ### Datenquellen
 
 [Stadt Berlin](daten.berlin.de)
